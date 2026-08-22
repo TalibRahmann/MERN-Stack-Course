@@ -1,0 +1,57 @@
+h1{
+    color: orangered;
+    padding: 20px;
+    margin: 20px;
+}
+
+ul{
+     font-family: Arial;
+    padding: 20px;
+    margin: 20px;
+}
+
+li{
+    color: orangered;
+    text-shadow: 1px 1px grey;
+}
+
+p{
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+form{
+    padding: 20px;
+    margin: 20px;
+}
+
+body{
+    font-family: arial;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.card1{
+    background-color: grey;
+    height: 300px; width: 250px;
+    margin: 20px; padding: 20px;
+    border-radius: 10px;
+}
+
+.card2{
+    background-color: grey;
+    height: 300px; width: 250px;
+    margin: 20px; padding: 20px;
+    border-radius: 10px;
+}
+.card3{
+    background-color: grey;
+    height: 300px; width: 250px;
+    margin: 20px; padding: 20px;
+    border-radius: 10px;
+}
