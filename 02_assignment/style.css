@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 h1{
     color: orangered;
     padding: 20px;
@@ -31,25 +36,7 @@ body{
     font-family: arial;
 }
 
-*{
-    margin: 0px;
-    padding: 0px;
-}
-
-.card1{
-    background-color: grey;
-    height: 300px; width: 250px;
-    margin: 20px; padding: 20px;
-    border-radius: 10px;
-}
-
-.card2{
-    background-color: grey;
-    height: 300px; width: 250px;
-    margin: 20px; padding: 20px;
-    border-radius: 10px;
-}
-.card3{
+.card{
     background-color: grey;
     height: 300px; width: 250px;
     margin: 20px; padding: 20px;
