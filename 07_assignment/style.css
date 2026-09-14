@@ -1,0 +1,89 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    margin: 10px;
+    padding: 10px;
+}
+
+p{
+    margin: 10px;
+    padding: 10px;
+    font-weight: 1000;
+    font-size: 20px;
+}
+
+input{
+    margin: 20px;
+}
+
+.bttn{
+    background-color: rgb(0, 255, 0);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.bttn:hover{
+    background-color: green;
+}
+
+.add{
+    color: white;
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.add:hover{
+    background-color: rgb(75, 16, 130)
+}
+
+.TextField{
+    padding: 5px;
+    margin: 20px;
+}
+
+#taskContainer{
+    padding: 10px;
+    margin: 10px;
+    display: grid;
+    /* grid-template-rows: repeat(1,1fr);
+    grid-gap: 10px; */
+    
+}
+
+#taskContainer h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#taskContainer li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    border-left: 5px solid rgb(213, 6, 245);
+}
+
+#taskContainer .text{
+    padding: 10px;
+}
+
+#taskContainer .delete{
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(213, 6, 245);
+}
+
+#taskContainer .delete:hover{
+    background-color: rgb(60, 7, 58);
+}
