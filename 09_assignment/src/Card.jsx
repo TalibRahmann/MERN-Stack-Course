@@ -1,0 +1,10 @@
+import "./Card.css"
+
+export const Card = (props) => {
+    return (
+        <div className="Card">
+            <h1>{props.title}</h1>
+            <p>{props.description}</p> 
+        </div>
+    )
+}
