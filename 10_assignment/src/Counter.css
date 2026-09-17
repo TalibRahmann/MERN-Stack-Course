@@ -1,0 +1,10 @@
+.button {
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 20%;
+}
+
+.field {
+  padding: 10px;
+  border-radius: 10px;
+}
