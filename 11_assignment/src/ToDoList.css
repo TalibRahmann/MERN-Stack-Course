@@ -1,0 +1,14 @@
+.button {
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.field {
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+p {
+  color: white;
+}
