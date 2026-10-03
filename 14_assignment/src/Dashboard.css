@@ -1,0 +1,21 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.list {
+  color: white;
+}
+
+#textField {
+  border-radius: 5px;
+}
+
+#button {
+  border-radius: 5px;
+  margin-left: 10px;
+  background-color: rgb(48, 48, 48);
+}
+
+#button:hover {
+  background-color: darkgrey;
+}
